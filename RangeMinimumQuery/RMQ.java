@@ -1,3 +1,6 @@
+/*Problem Link*/
+/* https://practice.geeksforgeeks.org/problems/range-minimum-query/1 */
+
 /*Check AC code */
 
 //https://ideone.com/tDL4nL
